@@ -22,5 +22,8 @@ This is the start page of the game
 And after you press the space key, the below page will be looked like this:
 ![new_starting_page](https://user-images.githubusercontent.com/56701603/137652324-95c6336a-5ac5-4b7f-83d3-f0a348264203.jpg)
 
+When the character is hit by these little skulls, the HP will decrease. The red circle lines out the character is hit by this skull.
+![get_hit](https://user-images.githubusercontent.com/56701603/137653058-59675c56-f99a-4af3-9065-2bb0d88adf5d.jpg)
+
 
 
