@@ -19,6 +19,8 @@ Game rule:
 This is the start page of the game
 ![press_space_key_start](https://user-images.githubusercontent.com/56701603/137651914-620471ba-0d32-4368-8480-571ccaf59c13.jpg)
 
+And after you press the space key, the below page will be looked like this:
+![new_starting_page](https://user-images.githubusercontent.com/56701603/137652324-95c6336a-5ac5-4b7f-83d3-f0a348264203.jpg)
 
 
 
