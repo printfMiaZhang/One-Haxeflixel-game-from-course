@@ -25,5 +25,8 @@ And after you press the space key, the below page will be looked like this:
 When the character is hit by these little skulls, the HP will decrease. The red circle lines out the character is hit by this skull.
 ![get_hit](https://user-images.githubusercontent.com/56701603/137653058-59675c56-f99a-4af3-9065-2bb0d88adf5d.jpg)
 
+This is the state when the controlled character fell to the lava, and died.
+ ![died](https://user-images.githubusercontent.com/56701603/137653206-9b359fce-8f57-4340-a53b-12934afef99a.jpg)
+
 
 
